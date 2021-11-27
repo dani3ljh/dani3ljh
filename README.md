@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Web4L
-- 👀 I’m interested in Unity, Javascript, and Python.
-- 🌱 I’m currently learning Unity
+- 👀 I’m interested in Unity and Javascript.
+- 🌱 I’m currently learning React
 - 📫 How to reach me my discord is @Cracker#9209
 
 <!---

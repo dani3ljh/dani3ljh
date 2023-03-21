@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Web4L
-- 👀 I’m interested in Unity and Javascript.
-- 🌱 I’m currently learning React
+My name is Daniel, and I am a student.
+I am currently learning react and typescript, C#, and Unity.
+I use VScode.
+My favorite language is C#.
